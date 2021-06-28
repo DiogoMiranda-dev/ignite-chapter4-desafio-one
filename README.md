@@ -66,6 +66,7 @@ https://www.figma.com/file/4NVFv7itmwfw1476h9n4VY/Desafio-1-M%C3%B3dulo-4-ReactJ
 - **[Axios](https://github.com/axios/axios)**
 - **[swiper](https://swiperjs.com/react)**
 - **[framer-motion](https://www.framer.com/motion/)**
+- **[react-country-flag](https://www.npmjs.com/package/react-country-flag)**
 
 - `devDependencies`:
 - **[TypeScript](https://www.typescriptlang.org/)**
